@@ -1,4 +1,7 @@
-### Hi there 👋
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/edgarddomingues"
 
 <!--
 **DegasEd/DegasEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
